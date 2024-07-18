@@ -20,7 +20,7 @@ const Navmovies = () => {
             
           
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            firstApp
+            movieApp
           </Typography>
           <Link to={'/'}><Button style={{color:'white'}}>View Movies</Button></Link>
           <Link to={'/add'}><Button style={{color:'white'}}>Add Movie</Button></Link>
